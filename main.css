@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	font-family: calibri;
+}
+header {
+	background: #e974bc;
+	color: white;
+}
+
+header img {
+	align-items: center;
+}
+
+header h1 {
+	text-align: center;
+	margin: auto;
+	font-size: 50px;
+}
+
+nav ul {
+	margin: auto;
+	display: inline;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 0 0 0 325px;
+	font-size: 28px;
+}
+
+footer {
+	margin: 0px 0px 0px 340px;
+}
+
+p {
+	color: #d324a4;
+}
+
+footer a {
+	color: #d324a4;
+}
+
+.Github {
+	color: #d324a4;
+	margin: center;
+}
