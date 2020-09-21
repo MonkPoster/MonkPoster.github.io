@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	font-family: calibri;
+	background-color: #999;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+	font-size: 40px;
+	color: black;
+}
+
+nav ul li {
+	margin: 0 860px;
+	list-style: none;
+	display: inline-block;
+}
+
+h2 {
+	font-weight: normal;
+}
