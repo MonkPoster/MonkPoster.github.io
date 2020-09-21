@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	font-family: calibri;
+	color: #EEF2FF;
+	background-color: #EEF2FF;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+	font-size: 40px;
+	color: black;
+}
+
+nav ul li {
+	margin: 0 860px;
+}
+
+<style>
+  #HCB_comment_box blockquote {
+    color: black;
+  }
+</style>
+
+<style>
+  #HCB_comment_box .text-blur {
+    color: black;
+  }
+  #HCB_comment_box .text-focus {
+    color: black;
+  }
+</style>
