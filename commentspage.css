@@ -1,8 +1,7 @@
 body {
 	margin: 0;
 	font-family: calibri;
-	color: #EEF2FF;
-	background-color: #EEF2FF;
+	background-color: #999;
 }
 
 h1 {
@@ -15,8 +14,3 @@ h1 {
 nav ul li {
 	margin: 0 860px;
 }
-
-<style>
-  #HCB_comment_box blockquote {
-    color: black;}
-</style>
