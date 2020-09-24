@@ -6,7 +6,7 @@ body {
 }
 header {
 	background: #D6DAF0;
-	color: black;
+	color: #4f5252;
 }
 
 header img {
@@ -24,20 +24,20 @@ footer {
 }
 
 p {
-	color: black;
+	color: #4f5252;
 }
 
 footer a {
-	color: black;
+	color: #4f5252;
 }
 
 .Github {
-	color: black;
+	color: #4f5252;
 	margin: center;
 }
 
 .portraits {
-	color: black;
+	color: #4f5252;
 }
 
 nav {
