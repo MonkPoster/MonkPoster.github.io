@@ -1,0 +1,110 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	margin: 0;
+	font-family: calibri;
+	color: #EEF2FF;
+	background-color: #EEF2FF;
+}
+header {
+	background: #D6DAF0;
+	color: #4f5252;
+	margin: 0 auto;
+}
+
+header img {
+	align-items: center;
+}
+
+header h1 {
+	text-align: center;
+	margin: auto;
+	font-size: 50px;
+}
+
+p {
+	color: #4f5252;
+}
+
+footer a {
+	color: #4f5252;
+}
+
+.Github {
+	color: #4f5252;
+
+}
+
+.portraits {
+	color: #4f5252;
+}
+
+.Community {
+	color: #4f5252;
+}
+
+.links {
+	text-align: center;
+}
+
+.banner {
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+nav {
+	font-size: 31px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.monkwoman {
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+	margin-top: -38px;
+}
+
+.bottomtext {
+	text-align: center;
+}
+
+
+div {
+ 	text-align:center;
+  	width:100%;
+}
+
+
+
+.monkdance {
+	text-align: center;
+}
+
+.plink {
+	display: inline;
+}
+
+/* I honestly have no idea what this does... I copy pasted this code from the interwebs*/
+ul, li{ list-style:none; margin:0; padding:0;}/*1.1*/
+.bar ul{background-color:#EEF2FF;} /*1.2*/
+.bar a{color:#EEF2FF; display:block; padding:5px; text-decoration:none;} /*1.2, 1.3*/
+.bar:hover{background -color:#333333; text-decoration:none; color:none;}/*1.2*/
+.bar > ul{ display:table; width:100%;}  /*2.1, 2.2*/
+.bar > ul > li{ display:table-cell; border-right:3px solid #D6DAF0;}  /*3.1, 3.2 */
+.bar > ul > li:last-child{ border-right:none;}/*3.2*/
+.bar > ul > li > a{ text-align:center;}/*2*/
+.sp-width{ width:40%;}
