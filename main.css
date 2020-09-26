@@ -75,17 +75,11 @@ nav {
 	display: block;
  	margin-left: auto;
  	margin-right: auto;
-	margin-top: -46px;
+ 	margin-top: -46px;
 }
 
 .bottomtext {
 	text-align: center;
-}
-
-
-div {
- 	text-align:center;
-  	width:100%;
 }
 
 .banners {
@@ -94,12 +88,13 @@ div {
  	margin-right: auto;
 }
 
-.monkdance {
-	text-align: center;
+div {
+ 	text-align:center;
+  	width:100%;
 }
 
-.plink {
-	display: inline;
+.monkdance {
+	text-align: center;
 }
 
 /* I honestly have no idea what this does... I copy pasted this code from the interwebs*/
