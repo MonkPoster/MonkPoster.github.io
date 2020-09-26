@@ -1,3 +1,4 @@
+/*I copy pasted this code from /mjg/s repo. Don't ask me what it does. It does stuff*/
 function pickimg(){
     var imagenumber = 11 ;
     var randomnumber = Math.random() ;
