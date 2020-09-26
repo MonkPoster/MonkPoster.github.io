@@ -88,7 +88,11 @@ div {
   	width:100%;
 }
 
-
+.banners {
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
 
 .monkdance {
 	text-align: center;
