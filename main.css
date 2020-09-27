@@ -126,7 +126,7 @@ div {
 
 .testbox {
 	margin-left: auto;
-	margin-top: -210px;
+	margin-top: -203px;
 	padding-right: 10px;
 	margin-right: 16px;
 }
@@ -144,4 +144,19 @@ ul, li{ list-style:none; margin:0; padding:0;}/*1.1*/
 
 ul li{
   display: inline;
+}
+
+
+html {
+  --scrollbarBG: #EEF2FF;
+  --thumbBG: #D6DAF0;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body {
+  scrollbar-width: thin;
+  scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
