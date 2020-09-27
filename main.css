@@ -86,6 +86,7 @@ nav {
 	display: block;
  	margin-left: auto;
  	margin-right: auto;
+ 	margin-top: -160px;
 }
 
 div {
@@ -93,8 +94,41 @@ div {
   	width:100%;
 }
 
-.monkdance {
-	text-align: center;
+.fatcat {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
+.thanks {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
+.deathly {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
+.warsaw {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
+.greetings {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
+.newsbox {
+	margin-right: auto;
+	margin-left: 10px;
+}
+
+.testbox {
+	margin-left: auto;
+	margin-top: -210px;
+	padding-right: 10px;
+	margin-right: 16px;
 }
 
 /* I honestly have no idea what this does... I copy pasted this code from the interwebs*/
@@ -107,3 +141,7 @@ ul, li{ list-style:none; margin:0; padding:0;}/*1.1*/
 .bar > ul > li:last-child{ border-right:none;}/*3.2*/
 .bar > ul > li > a{ text-align:center;}/*2*/
 .sp-width{ width:40%;}
+
+ul li{
+  display: inline;
+}

@@ -1,4 +1,4 @@
-/*I copy pasted this code from /mjg/s repo. Don't ask me what it does. It does something*/
+/*I copy pasted this code from /mjg/s repo. Don't ask me what it does. It does stuff*/
 function pickimg(){
     var imagenumber = 11 ;
     var randomnumber = Math.random() ;
@@ -15,6 +15,7 @@ function pickimg(){
     images[9] = "banner/banner9.png"
     images[10] = "banner/banner10.png"
     images[11] = "banner/banner11.png"
+    images[11] = "banner/banner12.png"
     var image = images[rand1]
     document.randimg.src = image
     }
