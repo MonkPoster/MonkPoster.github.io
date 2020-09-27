@@ -1,18 +1,36 @@
 body {
 	margin: 0;
 	font-family: calibri;
-	background-color: #999;
+	background-color: #D6DAF0;
+	color: #4f5252;
 }
 
 h1 {
 	text-align: center;
 	margin: auto;
 	font-size: 40px;
-	color: black;
+	color: #4f5252;
 }
 
 nav ul li {
 	margin: 0 auto;
 	list-style: none;
 	display: inline-block;
+}
+
+a {
+	color: var(--link-color);
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+blockquote {
+    border-left: 4px solid #4f5252;
+    padding: 0 15px;
+    color: var(--font-color);
+}
+blockquote blockquote {
+    padding-right: 0;
 }
