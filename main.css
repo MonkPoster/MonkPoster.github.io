@@ -114,6 +114,11 @@ div {
 	margin-left: 5px;
 }
 
+.doomed {
+	text-decoration: none!important;
+	margin-left: 5px;
+}
+
 .newsbox {
 	margin-right: auto;
 	margin-left: 16px;
