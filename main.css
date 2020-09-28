@@ -162,6 +162,7 @@ body {
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
 
+/* Customizes the HTML audio player*/
 audio:hover, audio:focus, audio:active
 {
 -webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
