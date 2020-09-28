@@ -59,12 +59,6 @@ footer a {
 	text-align: center;
 }
 
-.banner {
-	display: block;
- 	margin-left: auto;
- 	margin-right: auto;
-}
-
 nav {
 	font-size: 31px;
 	font-weight: normal;
@@ -160,3 +154,4 @@ body {
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
+
