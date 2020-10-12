@@ -8,7 +8,7 @@ body {
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 190px; /* Set the width of the sidebar */
+  width: 210px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -21,7 +21,8 @@ body {
 
 /* The navigation menu links */
 .sidenav a {
-  padding: 6px 8px 6px 16px;
+  padding: 6px 4px 5px 19.9px;
+  text-indent: 2px;
   text-decoration: none;
   font-size: 16px;
   color: black;
@@ -54,4 +55,8 @@ a {
 
 .banners {
 	margin-top: 15px;
+}
+
+.dinks {
+	margin-left: 20px;
 }
