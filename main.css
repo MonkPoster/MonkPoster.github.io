@@ -193,3 +193,7 @@ border-radius:7px 7px 7px 7px ;
 .links {
 	list-style-position:inside;
 }
+
+.bottomborder {
+	padding-top: 9.5px;
+}
