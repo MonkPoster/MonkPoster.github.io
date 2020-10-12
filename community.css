@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	font-family: 'Crimson Text', serif;;
+	background-color: #EEF2FF;
+	color: black;
+}
+
+/* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 190px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #D6DAF0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: white;
+}
+
+.text {
+	padding-left: 500px;
+	width: 600px;
+	position: relative;
+}
+
+ul li {
+	display: inline-block;
+}
+
+a {
+	
+	color: black;
+}
+
+.border {
+	border-left: 50px solid;
+}
+
+.righty {
+	float: right;
+	border-right: 1000px;
+}
