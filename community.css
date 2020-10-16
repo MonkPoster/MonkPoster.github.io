@@ -71,12 +71,9 @@ a {
 .test {
   height: 100%; 
   width: 290px; 
-  position: fixed;
-  z-index: 1;
   top: 0; 
   right: 0;
   background-color: #D6DAF0;
-  overflow-x: hidden; 
   padding-top: 20px;
 }
 
