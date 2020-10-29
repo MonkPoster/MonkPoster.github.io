@@ -44,14 +44,17 @@ footer a {
 
 .Github {
 	color: black;
+	padding-right: 4.5px;
 }
 
 .portraits {
 	color: black;
+	padding-left: 5px;
 }
 
 .Community {
 	color: black;
+	padding-left: 5px;
 }
 
 nav {
