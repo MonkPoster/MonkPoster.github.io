@@ -3,6 +3,7 @@ body {
 	font-family: 'Crimson Text', serif;;
 	background-color: #EEF2FF;
 	color: black;
+	font-size: 22px;
 }
 
 /* The sidebar menu */
@@ -204,8 +205,4 @@ a {
 	top: 300px;
 	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
-}
-
-body {
-	font-size 20px;
 }
