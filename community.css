@@ -46,17 +46,17 @@ body {
 
 .text {
 	padding-left: 340px;
-	width: 600px;
+	width: 630px;
 	position: relative;
-	font-size: 17.5px;
+	font-size: 22px;
 }
 
 ul li {
 	display: inline-block;
+
 }
 
 a {
-	
 	color: black;
 }
 
