@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	font-family: 'Crimson Text', serif;
-	background-color: #D6DAF0;
+	background-color: #EEF2FF;
 	color: black;
 	font-size: 25px;
 }
@@ -38,6 +38,5 @@ blockquote blockquote {
 
 .banners {
 	margin-top: 45px;
-	align-content: center;
 }
 
