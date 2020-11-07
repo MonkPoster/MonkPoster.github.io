@@ -9,7 +9,7 @@ body {
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 300px; /* Set the width of the sidebar */
+  width: 320px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -39,18 +39,6 @@ body {
     background-color: #EEF2FF!important;
 }
 
-#AgeOfDecadence {
-	flex-wrap: wrap;
-	flex: 200px;
-}
-
-.text {
-	padding-left: 340px;
-	width: 630px;
-	position: relative;
-	font-size: 22px;
-}
-
 ul li {
 	display: inline-block;
 
@@ -69,140 +57,106 @@ a {
 	padding-left: 20px;
 }
 
-.test {
-  height: 100%; 
-  width: 290px; 
-  top: 0; 
-  right: 0;
-  background-color: #D6DAF0;
-  padding-top: 20px;
-  position: fixed;
-}
-
 .pillarspicture {
-	position: relative;
 	left: 650px;
 	top: 350px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .agepicture {
-	position: relative;
-	left: 640px;
-	top: 250px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .arcanumpicture {
-	position: relative;
-	left: 650px;
 	top: 300px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .baldur1picture {
-	position: relative;
-	left: 640px;
 	top: 330px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .divinitypicture {
-	position: relative;
 	left: 640px;
 	top: 330px;
-	margin-top: -570px;
 	border: #D6DAF0 solid 4px;
 }
 
 .icewindpicture {
-	position: relative;
 	left: 660px;
 	top: 340px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .chalicepicture {
-	position: relative;
 	left: 640px;
 	top: 190px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .nwn2picture {
-	position: relative;
 	left: 650px;
 	top: 330px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .kingmakerpicture {
-	position: relative;
 	left: 650px;
 	top: 340px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .realmspicture {
-	position: relative;
 	left: 640px;
 	top: 190px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .solastapicture {
-	position: relative;
 	left: 640px;
 	top: 200px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .kotorpicture {
-	position: relative;
 	left: 660px;
 	top: 350px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .templepicture {
-	position: relative;
 	left: 640px;
 	top: 350px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .underrailpicture {
-	position: relative;
 	left: 650px;
 	top: 320px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .bloodlinespicture {
-	position: relative;
 	left: 640px;
 	top: 350px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
 
 .wastelandpicture {
-	position: relative;
 	left: 640px;
 	top: 300px;
-	margin-top: -550px;
 	border: #D6DAF0 solid 4px;
 }
+
+.center {
+	text-align: center;
+	width: 1100px;
+	padding-left: 160px;
+}
+
+.text {
+	padding-left: 340px;
+	font-size: 22px;
+}
+
