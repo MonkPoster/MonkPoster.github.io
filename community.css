@@ -53,11 +53,15 @@ a {
 }
 
 .banners {
-	padding-top: 45px;
+	padding-top: 35px;
 	padding-left: 20px;
 }
 
 .crpggpicture {
+	border: #D6DAF0 solid 4px;
+}
+
+.sunpicture {
 	border: #D6DAF0 solid 4px;
 }
 
